@@ -1,0 +1,26 @@
+---
+title: "Campaigns"
+execute:
+  echo: false
+---
+
+This is an overview of the DnD campaigns I've put together.
+
+```{r setup}
+#| include: false
+library(knitr)
+```
+
+## The Grand Festivus Games
+
+```{r}
+data.frame(label = c('Players', 'Level', 'Time'),
+           comment = c('3 - 5', '3', '2 - 3 hours')) |>
+  kable(col.names = rep('', 2))
+```
+
+### Background
+
+You all have come to Sondheim for the Grand Festivus Games. The games occur every 10 years, and the town is alive with excitement in anticipation of the games, with visitors of all races from all over the continent.
+
+You are contestants, and you plan to take away the grand prize. (You’ve heard that the person who won ten years ago now commands her own militia for hire and is living off the fat of her winnings on a private island in the Sea of Tears.) Only one contestant will win, and you plan to be that person.
