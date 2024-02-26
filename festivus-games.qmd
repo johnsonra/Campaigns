@@ -17,6 +17,13 @@ data.frame(label = c('Players', 'Level', 'Time'),
   kable(col.names = rep('', 2))
 ```
 
+### Maps
+
+* [Player maps](maps/festivus-games-player.html)
+  * [Scene 1 handout](imgs/festivus-games-scene1.jpeg)
+* DM maps
+  * [Scene 3](imgs/festivus-games-scene3-DM.jpeg)
+
 ### Background
 
 You all have come to Sondheim for the Grand Festivus Games. The games occur every 10 years, and the town is alive with excitement in anticipation of the games, with visitors of all races from all over the continent.

@@ -1,0 +1,22 @@
+---
+title: "The Grand Festivus Games"
+format:
+  revealjs:
+    theme: dark
+---
+
+## {background-image="/imgs/festivus-games-scene0.jpeg"} 
+
+## {background-image="/imgs/festivus-games-scene1.jpeg"} 
+
+## {background-image="/imgs/festivus-games-scene2a.jpeg"} 
+
+## {background-image="/imgs/festivus-games-scene2b.jpeg"} 
+
+## {background-image="/imgs/festivus-games-scene2c.jpeg"} 
+
+## {background-image="/imgs/festivus-games-scene2d.jpeg"} 
+
+## {background-image="/imgs/festivus-games-scene3.jpeg"} 
+
+## {background-image="/imgs/festivus-games-scene4.jpeg"} 
